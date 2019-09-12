@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# raw
+.DS_Store
+**/*/*.mp4
+**/*/*.avi
+**/*/*.jpeg
+**/*/*.jpg
+**/*/*.png
+**/*/output-images
+**/*/processed-images
+**/*/output-video
